@@ -8,9 +8,9 @@
 
 
 <p align="center">
-    <a href="https://github.com/catppuccin/dunst/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/dunst?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/dunst/issues"><img src="https://img.shields.io/github/issues/catppuccin/dunst?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/dunst/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dunst?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/catppuccin-conky/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/dunst?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/catppuccin-conky/issues"><img src="https://img.shields.io/github/issues/catppuccin/dunst?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/catppuccin-conky/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dunst?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 ![Conky preview](assets/preview.png)
