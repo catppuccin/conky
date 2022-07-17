@@ -17,5 +17,5 @@
 
 ## Usage
 
-1. Copy the contents of `catppuccin.conf` into `$HOME/.config/conky/catppuccin.conf`.
-2. Run using `conky -c $HOME/.config/conky/catppuccin.conf`
+1. Copy the contents of you're prefered style (ex. `mocha.conf`) into `$HOME/.config/conky/<stylename>.conf`.
+2. Run using `conky -c $HOME/.config/conky/<stylename>.conf`
