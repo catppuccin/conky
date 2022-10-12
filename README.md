@@ -13,7 +13,9 @@
     <a href="https://github.com/Spaxly/catppuccin-conky/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dunst?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-![Conky preview](assets/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/conky/main/assets/screenshot.webp" />
+</p>
 
 ## Usage
 
