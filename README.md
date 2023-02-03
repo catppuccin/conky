@@ -8,9 +8,9 @@
 
 
 <p align="center">
-    <a href="https://github.com/Spaxly/catppuccin-conky/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/dunst?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/Spaxly/catppuccin-conky/issues"><img src="https://img.shields.io/github/issues/catppuccin/dunst?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/Spaxly/catppuccin-conky/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dunst?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/conky/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/conky?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/conky/issues"><img src="https://img.shields.io/github/issues/catppuccin/conky?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/conky/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/conky?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
