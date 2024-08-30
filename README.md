@@ -19,5 +19,5 @@
 
 ## Usage
 
-1. Copy the contents of you're prefered style (ex. `mocha.conf`) into `$HOME/.config/conky/<stylename>.conf`.
+1. Copy the contents of your prefered style (ex. `mocha.conf`) into `$HOME/.config/conky/<stylename>.conf`.
 2. Run using `conky -c $HOME/.config/conky/<stylename>.conf`
