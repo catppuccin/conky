@@ -20,4 +20,4 @@
 ## Usage
 
 1. Copy the contents of your preferred style (ex. `mocha.conf`) into `$HOME/.config/conky/<flavour>.conf`.
-2. Run using `conky -c $HOME/.config/conky/<stylename>.conf`
+2. Run using `conky -c $HOME/.config/conky/<flavour>.conf`
